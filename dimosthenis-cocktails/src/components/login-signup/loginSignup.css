@@ -1,0 +1,37 @@
+/* LoginSignup.css */
+
+.login-signup {
+    margin-left: 20px;
+  }
+  
+  .login-signup h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .login-signup form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .login-signup input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .login-signup button {
+    background-color: #fff;
+    color: #000;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .login-signup {
+      margin-left: 0;
+    }
+  }
+  

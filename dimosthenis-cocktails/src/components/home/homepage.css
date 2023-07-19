@@ -1,0 +1,41 @@
+/* Homepage.css */
+
+.homepage {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .carousel {
+    /* Add your carousel styling here */
+    /* For simplicity, let's assume the carousel height is 300px and the images are set to cover the carousel container */
+  }
+  
+  .carousel-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .intro {
+    margin-top: 20px;
+  }
+  
+  .intro h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .intro p {
+    font-size: 16px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .carousel {
+      /* Adjust the carousel styling for smaller screens if needed */
+    }
+  
+    .intro {
+      margin-top: 10px;
+    }
+  }
+  

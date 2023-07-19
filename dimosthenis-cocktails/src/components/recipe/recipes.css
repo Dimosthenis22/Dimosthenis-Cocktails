@@ -1,0 +1,24 @@
+/* Recipes.css */
+
+.recipes {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .recipes-headline {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .recipes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .recipes-grid {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+  }
+  

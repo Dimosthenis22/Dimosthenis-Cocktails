@@ -1,0 +1,170 @@
+[
+    {
+      "id": "1",
+      "img": "apple-martini2.jpg",
+      "RouteName": "apple-martini",
+      "name": "Apple Martini",
+      "ingredients": {
+        "ing1": "60ml Vodka",
+        "ing2": "20ml lime juice",
+        "ing3": "20ml sugar syrup",
+        "ing4": "30ml Apple Sourz",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a shaker with ice, we shake them for 10 seconds and we put it in a frozen martini glass"
+    },
+    {
+      "id": "2",
+      "img": "BLOODY-MARY.jpg",
+      "RouteName": "bloody-mary",
+      "name": "Bloody Mary",
+      "ingredients": {
+        "ing1": "60ml Vodka",
+        "ing2": "30ml lemon juice",
+        "ing3": "90ml tomato juice",
+        "ing4": "2 dash tabasco",
+        "ing5": "1 dash worst sauce & salt, pepper, celery"
+      },
+      "directions": "We put all the ingredients in the shaker and we stir them.Then we add the celery and some ice."
+    },
+    {
+      "id": "3",
+      "img": "bramble22.webp",
+      "RouteName": "bramble",
+      "name": "Bramble",
+      "ingredients": {
+        "ing1": "50ml Gin",
+        "ing2": "20ml lime juice",
+        "ing3": "15ml sugar syrup",
+        "ing4": "15 ml Creme de casis",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a shaker with ice, we shake it for ten seconds.Then we put it in a short glass with ice. On the top we add crushed ice and 5ml of creme de casis"
+    },
+    {
+      "id": "4",
+      "img": "caipirinha-cocktail.jpg",
+      "RouteName": "caipirhna",
+      "name": "Caipirihna",
+      "ingredients": {
+        "ing1": "60ml Cascasa Rum",
+        "ing2": "25ml lime juice",
+        "ing3": "25ml sugar syrup",
+        "ing4": "",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a shaker with ice, we shake it for 10 seconds and then we put it in a short glass with ice and we add some crushed ice on top"
+    },
+    {
+      "id": "5",
+      "img": "cosmopolitan2.webp",
+      "RouteName": "cosmopolitan",
+      "name": "Cosmopolitan",
+      "ingredients": {
+        "ing1": "50ml Vodka",
+        "ing2": "20ml lime juice",
+        "ing3": "20ml Triple sec",
+        "ing4": "30ml Cranberry juice",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a shaker with ice, shake it for 10 seconds and then we put it in a frozen martini glass."
+    },
+    {
+      "id": "6",
+      "img": "daiquiri2.jpg",
+      "RouteName": "daquiri",
+      "name": "Daquiri",
+      "ingredients": {
+        "ing1": "60ml Rum",
+        "ing2": "30ml lime juice",
+        "ing3": "30ml sugar syrup",
+        "ing4": "",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a shaker with ice, we shake it for 10 seconds and then we put it in a frozen martini glass."
+    },
+    {
+      "id": "7",
+      "img": "dry-martini2.jpg",
+      "RouteName": "dry-martini",
+      "name": "Dry martini",
+      "ingredients": {
+        "ing1": "60ml Gin",
+        "ing2": "5ml Dry martini",
+        "ing3": "",
+        "ing4": "",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a shaker with ice, we stir them and we put it in a frozen martini glass"
+    },
+    {
+      "id": "8",
+      "img": "Tequila-Sunrise2.webp",
+      "RouteName": "tequila-sunrise",
+      "name": "Tequila-Sunrise",
+      "ingredients": {
+        "ing1": "60ml colored Tequila",
+        "ing2": "30ml orange juice",
+        "ing3": "2-3 dashes grenadine",
+        "ing4": "",
+        "ing5": ""
+      },
+      "directions": "We put the ingredients in a glass as in the picture above with ice. then we add the dashes of grenadine."
+    },
+    {
+      "id": "9",
+      "img": "strawberry-daiquiry.jpg",
+      "RouteName": "daquiri-strawberry-frozen",
+      "name": "Daquiri strawberry frozen",
+      "ingredients": {
+        "ing1": "60ml Rum",
+        "ing2": "25ml lime juice",
+        "ing3": "25ml sugar syrup",
+        "ing4": "",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in an electric mixer with enough ice so that the liquids and the ice are at the sae level. we mix them for 20 seconds and we put in a martini glass"
+    },
+    {
+      "id": "10",
+      "img": "Mai-tai-cocktail.jpg",
+      "RouteName": "mai-tai",
+      "name": "Mai Tai",
+      "ingredients": {
+        "ing1": "40ml white Rum",
+        "ing2": "15ml lime juice",
+        "ing3": "15ml triple sec",
+        "ing4": "25ml dark-aged Rum",
+        "ing5": "15ml Marin Orgeat"
+      },
+      "directions": "We put all the ingredients in a shaker with ice,we stir it for 5 seconds and then we put it in a short glass with ice.We add some crushed ice on top."
+    },
+    {
+      "id": "11",
+      "img": "mojito-b.jpg",
+      "RouteName": "mojito",
+      "name": "Mojito",
+      "ingredients": {
+        "ing1": "60ml Rum",
+        "ing2": "30ml lime juice",
+        "ing3": "30ml sugar syrup",
+        "ing4": "5-8 mint leaves",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a big glass. We stir them and then we add ice. We stir them once more, we put some crushed ice on top and we top up with soda."
+    },
+    {
+      "id": "12",
+      "img": "pina-colada2.webp",
+      "RouteName": "pina-colada",
+      "name": "Pina Colada",
+      "ingredients": {
+        "ing1": "60ml white Rum",
+        "ing2": "40ml anana juice",
+        "ing3": "30ml coconut puree",
+        "ing4": "",
+        "ing5": ""
+      },
+      "directions": "We put all the ingredients in a shaker with ice, we shake it for 10 seconds and then we put it in a glass with ice."
+    }
+  ]

@@ -1,0 +1,39 @@
+/* Recipe.css */
+
+.recipe {
+    margin-bottom: 20px;
+  }
+  
+  .recipe-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  .recipe-name {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .recipe-details {
+    display: grid;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .recipe-ingredients ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .recipe-method {
+    margin-top: 10px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .recipe-image {
+      height: 200px;
+    }
+  }
+  
